@@ -22,3 +22,6 @@
 [submodule "gt_transmitter"]
 	path = gt_transmitter
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_transmitter.git
+[submodule "symmclass_client"]
+	path = symmclass_client
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/symmclass_client.git
