@@ -16,3 +16,6 @@
 [submodule "gt_keyboard"]
 	path = gt_keyboard
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_keyboard.git
+[submodule "gt_receiver"]
+	path = gt_receiver
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_receiver.git
