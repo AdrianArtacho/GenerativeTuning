@@ -7,3 +7,6 @@
 [submodule "gt_centernote"]
 	path = gt_centernote
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_centernote.git
+[submodule "gt_check"]
+	path = gt_check
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_check.git
