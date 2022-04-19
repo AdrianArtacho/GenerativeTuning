@@ -1,0 +1,3 @@
+[submodule "gt_analysis"]
+	path = gt_analysis
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_analysis.git
