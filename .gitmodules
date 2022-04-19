@@ -13,3 +13,6 @@
 [submodule "gt_cluster"]
 	path = gt_cluster
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_cluster.git
+[submodule "gt_keyboard"]
+	path = gt_keyboard
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_keyboard.git
