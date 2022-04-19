@@ -4,3 +4,6 @@
 [submodule "gt_bender"]
 	path = gt_bender
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_bender.git
+[submodule "gt_centernote"]
+	path = gt_centernote
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_centernote.git
