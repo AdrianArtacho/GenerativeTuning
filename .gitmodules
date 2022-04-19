@@ -25,3 +25,6 @@
 [submodule "symmclass_client"]
 	path = symmclass_client
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/symmclass_client.git
+[submodule "symmclasses"]
+	path = symmclasses
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/symmclasses.git
