@@ -12,5 +12,11 @@ This README would normally document whatever steps are necessary to get your app
 
 # To-Do
 
-* Repo owner or admin
-* Other community or team contact
+* gt_keys
+  * convert bend values back to hz
+  * constant recalculation (when all notes off) mode
+* gt_push (Modi)
+  * note on/off
+  * 2x notes
+  * 3x notes
+* gt_push: display a change of color when 'buttons' are selected
