@@ -12,7 +12,7 @@ url=https://github.com/AdrianArtacho/gt_centernote.git
 url=https://github.com/AdrianArtacho/gt_check.git
 [submodule "gt_cluster"]
 	path = gt_cluster
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_cluster.git
+url=https://github.com/AdrianArtacho/gt_cluster.git
 [submodule "gt_keyboard"]
 	path = gt_keyboard
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_keyboard.git
