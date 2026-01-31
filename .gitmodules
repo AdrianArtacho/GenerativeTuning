@@ -30,4 +30,4 @@ url=https://github.com/AdrianArtacho/symmclass_client.git
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/symmclasses.git
 [submodule "SymmClass_server"]
 	path = SymmClass_server
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/symmclass_server.git
+url=https://github.com/AdrianArtacho/symmclass_server.git
