@@ -9,7 +9,7 @@ url=https://github.com/AdrianArtacho/gt_bender.git
 url=https://github.com/AdrianArtacho/gt_centernote.git
 [submodule "gt_check"]
 	path = gt_check
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_check.git
+url=https://github.com/AdrianArtacho/gt_check.git
 [submodule "gt_cluster"]
 	path = gt_cluster
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_cluster.git
