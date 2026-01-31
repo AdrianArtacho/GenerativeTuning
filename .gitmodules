@@ -18,7 +18,7 @@ url=https://github.com/AdrianArtacho/gt_cluster.git
 url=https://github.com/AdrianArtacho/gt_keyboard.git
 [submodule "gt_receiver"]
 	path = gt_receiver
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_receiver.git
+url=https://github.com/AdrianArtacho/gt_receiver.git
 [submodule "gt_transmitter"]
 	path = gt_transmitter
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_transmitter.git
