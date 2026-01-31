@@ -40,3 +40,6 @@ url=https://github.com/AdrianArtacho/DetunePiano.git
 [submodule "Retune"]
 	path = Retune
 url=https://github.com/AdrianArtacho/Retune.git
+[submodule "tools"]
+	path = tools
+	url = https://github.com/AdrianArtacho/git_tools.git
