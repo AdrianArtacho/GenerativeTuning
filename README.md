@@ -1,6 +1,6 @@
 # 🎛️ Generative Tuning
 
-![Generative Tuning Logo](https://bitbucket.org/AdrianArtacho/generativetuning/raw/master/gt_logo.png)
+![Generative Tuning Logo](img/gt_logo.png)
 
 **Generative Tuning** is a meta‑repository of tools and Max for Live devices for exploring *tuning systems, harmonic proportions, and pitch topologies* in real time. It is designed for composers, performers, and artistic researchers who want to **generate, analyze, and perform with alternative harmonic logics** inside Ableton Live and Max/MSP.
 
