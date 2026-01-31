@@ -33,4 +33,4 @@ url=https://github.com/AdrianArtacho/SymmClasses.git
 url=https://github.com/AdrianArtacho/symmclass_server.git
 [submodule "Class2Channel"]
 	path = Class2Channel
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/class2channel.git
+url=https://github.com/AdrianArtacho/Class2Channel.git
