@@ -34,3 +34,6 @@ url=https://github.com/AdrianArtacho/symmclass_server.git
 [submodule "Class2Channel"]
 	path = Class2Channel
 url=https://github.com/AdrianArtacho/Class2Channel.git
+[submodule "DetunePiano"]
+	path = DetunePiano
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/detunepiano.git
