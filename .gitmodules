@@ -1,6 +1,6 @@
 [submodule "gt_analysis"]
 	path = gt_analysis
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_analysis.git
+url=https://github.com/AdrianArtacho/gt_Analysis.git
 [submodule "gt_bender"]
 	path = gt_bender
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_bender.git
