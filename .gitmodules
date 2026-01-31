@@ -3,7 +3,7 @@
 url=https://github.com/AdrianArtacho/gt_Analysis.git
 [submodule "gt_bender"]
 	path = gt_bender
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_bender.git
+url=https://github.com/AdrianArtacho/gt_bender.git
 [submodule "gt_centernote"]
 	path = gt_centernote
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/gt_centernote.git
