@@ -43,3 +43,6 @@ url=https://github.com/AdrianArtacho/Retune.git
 [submodule "tools"]
 	path = tools
 	url = https://github.com/AdrianArtacho/git_tools.git
+[submodule "gt_harmony"]
+	path = gt_harmony
+	url = https://github.com/AdrianArtacho/gt_harmony.git
