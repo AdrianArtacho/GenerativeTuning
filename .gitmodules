@@ -46,3 +46,6 @@ url=https://github.com/AdrianArtacho/Retune.git
 [submodule "gt_harmony"]
 	path = gt_harmony
 	url = https://github.com/AdrianArtacho/gt_harmony.git
+[submodule "gt_polyhedron"]
+	path = gt_polyhedron
+	url = https://github.com/AdrianArtacho/gt_polyhedron.git
