@@ -49,3 +49,6 @@ url=https://github.com/AdrianArtacho/Retune.git
 [submodule "gt_polyhedron"]
 	path = gt_polyhedron
 	url = https://github.com/AdrianArtacho/gt_polyhedron.git
+[submodule "gt_matrix"]
+	path = gt_matrix
+	url = https://github.com/AdrianArtacho/gt_matrix.git
